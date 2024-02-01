@@ -1,4 +1,4 @@
-// based on https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/script.js
+// based on https://mirror.ghproxy.com/https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/script.js
 function gradioApp() {
     const elems = document.getElementsByTagName('gradio-app');
     const elem = elems.length == 0 ? document : elems[0];

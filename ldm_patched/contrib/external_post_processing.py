@@ -1,4 +1,4 @@
-# https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
+# https://mirror.ghproxy.com/https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
 
 import numpy as np
 import torch
@@ -172,7 +172,7 @@ class Quantize:
         for b in range(batch_size):
             im = Image.fromarray((image[b] * 255).to(torch.uint8).numpy(), mode='RGB')
 
-            pal_im = im.quantize(colors=colors) # Required as described in https://github.com/python-pillow/Pillow/issues/5836
+            pal_im = im.quantize(colors=colors) # Required as described in https://mirror.ghproxy.com/https://github.com/python-pillow/Pillow/issues/5836
 
             if dither == "none":
                 quantized_image = im.quantize(palette=pal_im, dither=Image.Dither.NONE)

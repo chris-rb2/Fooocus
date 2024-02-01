@@ -1,7 +1,7 @@
 import re
 import torch
 
-# conversion code from https://github.com/huggingface/diffusers/blob/main/scripts/convert_diffusers_to_original_stable_diffusion.py
+# conversion code from https://mirror.ghproxy.com/https://github.com/huggingface/diffusers/blob/main/scripts/convert_diffusers_to_original_stable_diffusion.py
 
 # =================#
 # UNet Conversion #
@@ -202,7 +202,7 @@ textenc_conversion_lst = [
 protected = {re.escape(x[1]): x[0] for x in textenc_conversion_lst}
 textenc_pattern = re.compile("|".join(protected.keys()))
 
-# Ordering is from https://github.com/pytorch/pytorch/blob/master/test/cpp/api/modules.cpp
+# Ordering is from https://mirror.ghproxy.com/https://github.com/pytorch/pytorch/blob/master/test/cpp/api/modules.cpp
 code2idx = {"q": 0, "k": 1, "v": 2}
 
 

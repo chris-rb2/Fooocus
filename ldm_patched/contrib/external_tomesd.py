@@ -1,6 +1,6 @@
-# https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
+# https://mirror.ghproxy.com/https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
 
-#Taken from: https://github.com/dbolya/tomesd
+#Taken from: https://mirror.ghproxy.com/https://github.com/dbolya/tomesd
 
 import torch
 from typing import Tuple, Callable

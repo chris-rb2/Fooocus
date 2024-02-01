@@ -1,4 +1,4 @@
-# https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
+# https://mirror.ghproxy.com/https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
 
 import torch
 import torch.nn as nn
@@ -7,7 +7,7 @@ import ldm_patched.modules.clip_model
 import ldm_patched.modules.clip_vision
 import ldm_patched.modules.ops
 
-# code for model from: https://github.com/TencentARC/PhotoMaker/blob/main/photomaker/model.py under Apache License Version 2.0
+# code for model from: https://mirror.ghproxy.com/https://github.com/TencentARC/PhotoMaker/blob/main/photomaker/model.py under Apache License Version 2.0
 VISION_CONFIG_DICT = {
     "hidden_size": 1024,
     "image_size": 224,

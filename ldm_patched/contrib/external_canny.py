@@ -1,6 +1,6 @@
-# https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
+# https://mirror.ghproxy.com/https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
 
-#From https://github.com/kornia/kornia
+#From https://mirror.ghproxy.com/https://github.com/kornia/kornia
 import math
 
 import torch

@@ -1,4 +1,4 @@
-#code taken from: https://github.com/wl-zhao/UniPC and modified
+#code taken from: https://mirror.ghproxy.com/https://github.com/wl-zhao/UniPC and modified
 
 import torch
 import torch.nn.functional as F

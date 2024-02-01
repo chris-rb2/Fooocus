@@ -1,4 +1,4 @@
-# based on https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/modules/ui_gradio_extensions.py
+# based on https://mirror.ghproxy.com/https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/modules/ui_gradio_extensions.py
 
 import os
 import gradio as gr

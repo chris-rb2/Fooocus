@@ -1,4 +1,4 @@
-# https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
+# https://mirror.ghproxy.com/https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
 
 import ldm_patched.contrib.external
 import torch

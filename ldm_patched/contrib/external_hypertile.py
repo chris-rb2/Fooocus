@@ -1,6 +1,6 @@
-# https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
+# https://mirror.ghproxy.com/https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py 
 
-#Taken from: https://github.com/tfernd/HyperTile/
+#Taken from: https://mirror.ghproxy.com/https://github.com/tfernd/HyperTile/
 
 import math
 from einops import rearrange

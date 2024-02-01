@@ -1,10 +1,10 @@
 # pylint: skip-file
 """
-Model adapted from advimman's lama project: https://github.com/advimman/lama
+Model adapted from advimman's lama project: https://mirror.ghproxy.com/https://github.com/advimman/lama
 """
 
 # Fast Fourier Convolution NeurIPS 2020
-# original implementation https://github.com/pkumivision/FFC/blob/main/model_zoo/ffc.py
+# original implementation https://mirror.ghproxy.com/https://github.com/pkumivision/FFC/blob/main/model_zoo/ffc.py
 # paper https://proceedings.neurips.cc/paper/2020/file/2fd5d41ec6cfab47e32164d5624269b1-Paper.pdf
 
 from typing import List

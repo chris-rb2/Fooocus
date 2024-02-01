@@ -112,7 +112,7 @@ class SGFN(nn.Module):
 
 
 class DynamicPosBias(nn.Module):
-    # The implementation builds on Crossformer code https://github.com/cheerss/CrossFormer/blob/main/models/crossformer.py
+    # The implementation builds on Crossformer code https://mirror.ghproxy.com/https://github.com/cheerss/CrossFormer/blob/main/models/crossformer.py
     """Dynamic Relative Position Bias.
     Args:
         dim (int): Number of input channels.
@@ -291,7 +291,7 @@ class Spatial_Attention(nn.Module):
 
 
 class Adaptive_Spatial_Attention(nn.Module):
-    # The implementation builds on CAT code https://github.com/Zhengchen1999/CAT
+    # The implementation builds on CAT code https://mirror.ghproxy.com/https://github.com/Zhengchen1999/CAT
     """Adaptive Spatial Self-Attention
     Args:
         dim (int): Number of input channels.
@@ -392,7 +392,7 @@ class Adaptive_Spatial_Attention(nn.Module):
         )
 
     def calculate_mask(self, H, W):
-        # The implementation builds on Swin Transformer code https://github.com/microsoft/Swin-Transformer/blob/main/models/swin_transformer.py
+        # The implementation builds on Swin Transformer code https://mirror.ghproxy.com/https://github.com/microsoft/Swin-Transformer/blob/main/models/swin_transformer.py
         # calculate attention mask for shift window
         img_mask_0 = torch.zeros((1, H, W, 1))  # 1 H W 1 idx=0
         img_mask_1 = torch.zeros((1, H, W, 1))  # 1 H W 1 idx=1
@@ -576,7 +576,7 @@ class Adaptive_Spatial_Attention(nn.Module):
 
 
 class Adaptive_Channel_Attention(nn.Module):
-    # The implementation builds on XCiT code https://github.com/facebookresearch/xcit
+    # The implementation builds on XCiT code https://mirror.ghproxy.com/https://github.com/facebookresearch/xcit
     """Adaptive Channel Self-Attention
     Args:
         dim (int): Number of input channels.

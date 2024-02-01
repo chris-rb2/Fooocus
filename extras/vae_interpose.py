@@ -1,4 +1,4 @@
-# https://github.com/city96/SD-Latent-Interposer/blob/main/interposer.py
+# https://mirror.ghproxy.com/https://github.com/city96/SD-Latent-Interposer/blob/main/interposer.py
 
 import os
 import torch

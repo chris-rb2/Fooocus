@@ -1,6 +1,6 @@
 # pylint: skip-file
 # type: ignore
-# modify from https://github.com/rosinality/stylegan2-pytorch/blob/master/op/fused_act.py # noqa:E501
+# modify from https://mirror.ghproxy.com/https://github.com/rosinality/stylegan2-pytorch/blob/master/op/fused_act.py # noqa:E501
 
 import torch
 from torch import nn

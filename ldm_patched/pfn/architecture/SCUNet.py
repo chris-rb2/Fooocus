@@ -15,7 +15,7 @@ from .timm.drop import DropPath
 from .timm.weight_init import trunc_normal_
 
 
-# Borrowed from https://github.com/cszn/SCUNet/blob/main/models/network_scunet.py
+# Borrowed from https://mirror.ghproxy.com/https://github.com/cszn/SCUNet/blob/main/models/network_scunet.py
 class WMSA(nn.Module):
     """Self-attention module in Swin Transformer"""
 

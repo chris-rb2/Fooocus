@@ -1,4 +1,4 @@
-#taken from: https://github.com/lllyasviel/ControlNet
+#taken from: https://mirror.ghproxy.com/https://github.com/lllyasviel/ControlNet
 #and modified
 
 import torch

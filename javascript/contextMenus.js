@@ -1,4 +1,4 @@
-// based on https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/javascript/contextMenus.js
+// based on https://mirror.ghproxy.com/https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/v1.6.0/javascript/contextMenus.js
 
 var contextMenuInit = function() {
     let eventListenerApplied = false;

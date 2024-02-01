@@ -250,7 +250,7 @@ def encode_landm(matched, priors, variances):
     return g_cxcy
 
 
-# Adapted from https://github.com/Hakuyume/chainer-ssd
+# Adapted from https://mirror.ghproxy.com/https://github.com/Hakuyume/chainer-ssd
 def decode(loc, priors, variances):
     """Decode locations from predictions using priors to undo
     the encoding we did for offset regression at train time.
@@ -352,7 +352,7 @@ def log_sum_exp(x):
 
 
 # Original author: Francisco Massa:
-# https://github.com/fmassa/object-detection.torch
+# https://mirror.ghproxy.com/https://github.com/fmassa/object-detection.torch
 # Ported to PyTorch by Max deGroot (02/01/2017)
 def nms(boxes, scores, overlap=0.5, top_k=200):
     """Apply non-maximum suppression at test time to avoid detecting too many

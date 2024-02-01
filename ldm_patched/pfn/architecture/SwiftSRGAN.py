@@ -1,4 +1,4 @@
-# From https://github.com/Koushik0901/Swift-SRGAN/blob/master/swift-srgan/models.py
+# From https://mirror.ghproxy.com/https://github.com/Koushik0901/Swift-SRGAN/blob/master/swift-srgan/models.py
 
 import torch
 from torch import nn

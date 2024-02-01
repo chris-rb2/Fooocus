@@ -1,7 +1,7 @@
 """
-Modified from https://github.com/sczhou/CodeFormer
+Modified from https://mirror.ghproxy.com/https://github.com/sczhou/CodeFormer
 VQGAN code, adapted from the original created by the Unleashing Transformers authors:
-https://github.com/samb-t/unleashing-transformers/blob/master/models/vqgan.py
+https://mirror.ghproxy.com/https://github.com/samb-t/unleashing-transformers/blob/master/models/vqgan.py
 This verison of the arch specifically was gathered from an old version of GFPGAN. If this is a problem, please contact me.
 """
 import math

@@ -1,4 +1,4 @@
-"""Modified from https://github.com/chaofengc/PSFRGAN
+"""Modified from https://mirror.ghproxy.com/https://github.com/chaofengc/PSFRGAN
 """
 import numpy as np
 import torch.nn as nn

@@ -9,8 +9,8 @@ Deep Networks with Stochastic Depth (https://arxiv.org/abs/1603.09382)
 
 Code:
 DropBlock impl inspired by two Tensorflow impl that I liked:
- - https://github.com/tensorflow/tpu/blob/master/models/official/resnet/resnet_model.py#L74
- - https://github.com/clovaai/assembled-cnn/blob/master/nets/blocks.py
+ - https://mirror.ghproxy.com/https://github.com/tensorflow/tpu/blob/master/models/official/resnet/resnet_model.py#L74
+ - https://mirror.ghproxy.com/https://github.com/clovaai/assembled-cnn/blob/master/nets/blocks.py
 
 Hacked together by / Copyright 2020 Ross Wightman
 """
@@ -191,7 +191,7 @@ def drop_path(
 
     This is the same as the DropConnect impl I created for EfficientNet, etc networks, however,
     the original name is misleading as 'Drop Connect' is a different form of dropout in a separate paper...
-    See discussion: https://github.com/tensorflow/tpu/issues/494#issuecomment-532968956 ... I've opted for
+    See discussion: https://mirror.ghproxy.com/https://github.com/tensorflow/tpu/issues/494#issuecomment-532968956 ... I've opted for
     changing the layer and argument names to 'drop path' rather than mix DropConnect as a layer name and use
     'survival rate' as the argument.
 

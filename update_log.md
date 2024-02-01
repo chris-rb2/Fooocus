@@ -23,11 +23,11 @@
 
 # 2.1.853
 
-* Add Marc K3nt3L's styles. Thanks [Marc K3nt3L](https://github.com/K3nt3L)!
+* Add Marc K3nt3L's styles. Thanks [Marc K3nt3L](https://mirror.ghproxy.com/https://github.com/K3nt3L)!
 
 # 2.1.852
 
-* New Log System: Log system now uses tables. If this is breaking some other browser extension or javascript developments, see also [use previous version](https://github.com/lllyasviel/Fooocus/discussions/1405).
+* New Log System: Log system now uses tables. If this is breaking some other browser extension or javascript developments, see also [use previous version](https://mirror.ghproxy.com/https://github.com/lllyasviel/Fooocus/discussions/1405).
 
 # 2.1.846
 
@@ -50,7 +50,7 @@
 * Maintained some computation codes in backend for efficiency.
 * Added a note about Seed Breaking Change.
 
-**Seed Breaking Change**: Note that 2.1.825-2.1.839 is seed breaking change. The computation float point is changed and some seeds may give slightly different results. The minor change in 2.1.825-2.1.839 do not influence image quality. See also [use previous version](https://github.com/lllyasviel/Fooocus/discussions/1405).
+**Seed Breaking Change**: Note that 2.1.825-2.1.839 is seed breaking change. The computation float point is changed and some seeds may give slightly different results. The minor change in 2.1.825-2.1.839 do not influence image quality. See also [use previous version](https://mirror.ghproxy.com/https://github.com/lllyasviel/Fooocus/discussions/1405).
 
 # 2.1.837
 
@@ -228,7 +228,7 @@ Recently the community also developed LCM loras. Users can use it by setting the
 
 # 2.1.779
 
-* Disable image grid by default because many users reports performance issues. For example, https://github.com/lllyasviel/Fooocus/issues/829 and so on. The image grid will cause problem when user hard drive is not super fast, or when user internet connection is not very good (eg, run in remote). The option is moved to dev tools if users want to use it. We will take a look at it later.
+* Disable image grid by default because many users reports performance issues. For example, https://mirror.ghproxy.com/https://github.com/lllyasviel/Fooocus/issues/829 and so on. The image grid will cause problem when user hard drive is not super fast, or when user internet connection is not very good (eg, run in remote). The option is moved to dev tools if users want to use it. We will take a look at it later.
 
 # 2.1.776
 

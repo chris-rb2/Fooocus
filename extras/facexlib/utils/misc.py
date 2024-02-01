@@ -57,7 +57,7 @@ def img2tensor(imgs, bgr2rgb=True, float32=True):
 
 
 def load_file_from_url(url, model_dir=None, progress=True, file_name=None, save_dir=None):
-    """Ref:https://github.com/1adrianb/face-alignment/blob/master/face_alignment/utils.py
+    """Ref:https://mirror.ghproxy.com/https://github.com/1adrianb/face-alignment/blob/master/face_alignment/utils.py
     """
     if model_dir is None:
         hub_dir = get_dir()

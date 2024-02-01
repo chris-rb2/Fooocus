@@ -41,7 +41,7 @@ def align_crop_face_landmarks(img,
     adjusted based on shrink_ratio_h/shring_ration_w.
 
     Modified from:
-    https://github.com/NVlabs/ffhq-dataset/blob/master/download_ffhq.py
+    https://mirror.ghproxy.com/https://github.com/NVlabs/ffhq-dataset/blob/master/download_ffhq.py
 
     Args:
         img (Numpy array): Input image.
